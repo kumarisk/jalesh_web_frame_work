@@ -1,5 +1,7 @@
 package com.jalesh.qa.pages;
 
-public class BookingsummaryPage {
+import com.jalesh.qa.base.TestBase;
+
+public class BookingsummaryPage extends TestBase{
 
 }

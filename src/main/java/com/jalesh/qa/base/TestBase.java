@@ -14,8 +14,8 @@ import com.jalesh.qa.util.TesttimeUtil;
 
 public class TestBase {
 	
-	static WebDriver driver;
-	static Properties prop;
+	public static WebDriver driver;
+	public static Properties prop;
 	
 	public TestBase(){
 		try {
